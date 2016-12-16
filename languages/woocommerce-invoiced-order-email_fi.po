@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Invoiced Order Email\n"
+"POT-Creation-Date: 2016-12-14 12:45+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Frantic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "Invoiced Order"
+msgstr "Laskutettava tilaus"
+
+#: includes/class-wc-invoiced-order-email.php:21
+msgid "Invoiced Order Notification emails are sent when a customer places an order with billing type cheque"
+msgstr "Laskutettavan tilauksen ilmoitusviesti lähetetään kun maksutavaksi on valittu cheque"
