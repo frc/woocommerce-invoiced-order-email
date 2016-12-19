@@ -1,0 +1,14 @@
+{
+    "name"       : "frc/woocommerce-invoiced-order-email",
+    "description": "A plugin for creating a custom WooCommerce email to be sent to customer service when order billing type is cheque.",
+    "homepage"   : "https://github.com/frc/woocommerce-invoiced-order-email",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-3.0",
+    "support"    : {
+			"issues": "https://github.com/frc/woocommerce-invoiced-order-email/issues",
+			"source": "https://github.com/frc/woocommerce-invoiced-order-email"
+	},
+    "require"    : {
+        "composer/installers": "~1.0"
+    }
+}
